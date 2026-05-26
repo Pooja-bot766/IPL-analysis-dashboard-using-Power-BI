@@ -8,21 +8,21 @@ The dashboard provides a detailed analysis of team wins, top batsmen, top bowler
 Dashboard Overview
 
 The dashboard includes:
--> Season Winner Analysis – Displays IPL season champions
--> Orange Cap & Purple Cap Statistics – Top run-scorer and wicket-taker analysis
--> Batting Performance Metrics – Total runs, strike rate, 4s, and 6s
--> Bowling Performance Metrics – Total wickets, economy rate, bowling strike rate
--> Toss Decision Analysis – Winning percentage based on batting or fielding decisions
--> Top 5 Batsmen & Bowlers – Performance comparison charts
--> Winning Team Analysis – Team-wise winning trends
--> Interactive Filters/Slicers – Season, batsman, and bowler selection.
+- Season Winner Analysis – Displays IPL season champions
+- Orange Cap & Purple Cap Statistics – Top run-scorer and wicket-taker analysis
+- Batting Performance Metrics – Total runs, strike rate, 4s, and 6s
+- Bowling Performance Metrics – Total wickets, economy rate, bowling strike rate
+- Toss Decision Analysis – Winning percentage based on batting or fielding decisions
+- Top 5 Batsmen & Bowlers – Performance comparison charts
+- Winning Team Analysis – Team-wise winning trends
+- Interactive Filters/Slicers – Season, batsman, and bowler selection.
 
 Technologies Used
--> Power BI
--> Excel / CSV Dataset
--> Data Cleaning & Transformation
--> DAX (Data Analysis Expressions)
--> Interactive Data Visualization
+- Power BI
+- Excel / CSV Dataset
+- Data Cleaning & Transformation
+- DAX (Data Analysis Expressions)
+- Interactive Data Visualization
 
 Key Insights Generated
 - Team winning trends across seasons
